@@ -9,3 +9,14 @@ Deepdive coding PWP Project
 * All in all, really good job.
 
 **Grade: Tier III**
+
+## Milestone 2 Feedback
+* Very Creative idea!
+* Your wireframes should work, but are a little overly ambitious.
+* You should consider simplifying your content--Remember, you'll be the one adding in all of the information!
+* There are a couple of inconsistencies between your desktop and mobile view of your wireframes, (i.e., your "popular starting points section" includes "These drugs are popular because.." and "The dangers are.." are on your desktop view, but not your mobile view.
+* You didn't include your wireframes in your content strategy, which is an important part of your grade
+* Overall, this assignment meets passing requirements.
+
+
+**Grade: Tier II**
